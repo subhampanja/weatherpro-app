@@ -13,7 +13,7 @@ api/
 firebase.json
 .vscode
 .firebase
-.expo-shared
+.expo-shared/*
 .git
 
 # macOS
